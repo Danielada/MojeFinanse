@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MojeFinanse</string>
+    <string name="select_country">Select Country</string>
+    <string-array name = "category_expense">
+        <item>Jedzenie</item>
+        <item>Rozrywka</item>
+        <item>Benzyna</item>
+        <item>Fajki</item>
+    </string-array>
+</resources>
